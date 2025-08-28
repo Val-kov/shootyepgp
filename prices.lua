@@ -757,10 +757,10 @@ local prices = {
  -- [58211] = {0,"T1"}; --Molten Emberstone
  -- [58239] = {0,"T1"}; --Overheated Skyrazors
     -- Sorcerer-Thane Thaurissan:
- -- [58241] = {0,"T1"}; --[Leggings of the Deep Delve   
- -- [58241] = {0,"T1"}; --Libram of Final Judgement
- -- [58241] = {0,"T1"}; --Sigil of Ancient Accord
- -- [58241] = {0,"T1"}; --Modrag'zan, Heart of the Mountain
+ -- [58243] = {0,"T1"}; --[Leggings of the Deep Delve   
+ -- [58240] = {0,"T1"}; --Libram of Final Judgement
+ -- [58244] = {0,"T1"}; --Sigil of Ancient Accord
+ -- [58214] = {0,"T1"}; --Modrag'zan, Heart of the Mountain
 
     -- Old Bosses loot:
   [16665] = {0,"T1"}; --Tome of Tranquilizing Shot
